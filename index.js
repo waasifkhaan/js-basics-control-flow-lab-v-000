@@ -14,6 +14,6 @@ return message;
 
 }
 function ternaryCheckCity(){
-let city;
-if city = NYC ? 'Ok, sounds good.' : 'Nada' 
+
+let city = 'NYC' ? 'Ok, sounds good.' : 'Nada'
 }
