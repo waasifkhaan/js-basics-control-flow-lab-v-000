@@ -7,4 +7,4 @@ if (num < 400) {
 returen message;
 
 }
-scuberGreetingForFeet(400)
+scuberGreetingForFeet(400);
