@@ -13,7 +13,4 @@ else if (num >= 2500) {
 return message;
 
 }
-function ternaryCheckCity(){
 
-let city = 'NYC' ? 'Ok, sounds good.' : 'No go.'
-}
