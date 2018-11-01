@@ -2,7 +2,7 @@
 function scuberGreetingForFeet(num) {
 let message;
 if (num <= 400) {
-  'This one is on me!';
+  message = 'This one is on me!';
 }
 return message;
 
