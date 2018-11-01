@@ -8,7 +8,7 @@ else if (num > 2000) {
   message = 'I will gladly take your thirty bucks.';
 }
 else if (num > 2500) {
-  message = '';
+  message = 'No can do.';
 }
 return message;
 
