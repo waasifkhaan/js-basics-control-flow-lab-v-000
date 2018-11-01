@@ -15,5 +15,6 @@ return message;
 }
 
 function ternaryCheckCity(){
-  let city = 'NYC' ? Ok, 'sounds good.' : 'No go.'
+  let city;
+  city = 'NYC' ? Ok, 'sounds good.' : 'No go.'
 }
