@@ -13,3 +13,7 @@ else {
 return message;
 
 }
+
+function ternaryCheckCity(){
+  let city = 'NYC' ? Ok, 'sounds good.' || 'No go.' 
+}
