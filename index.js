@@ -7,7 +7,7 @@ if (num <= 400) {
 else if (1999 < num && num < 2500) {
   message = 'I will gladly take your thirty bucks.';
 }
-else if (num > 2500) {
+else {
   message = 'No can do.';
 }
 return message;
