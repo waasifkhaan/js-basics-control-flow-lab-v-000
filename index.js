@@ -4,7 +4,7 @@ let message;
 if (num < 400) {
   'This one is on me!';
 }
-returen message;
+return message;
 
 }
-scuberGreetingForFeet(400);
+
