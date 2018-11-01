@@ -32,5 +32,6 @@ switch (tip) {
     default:
         note = 'Bye.';
         break;
+        note;
 }
 }
